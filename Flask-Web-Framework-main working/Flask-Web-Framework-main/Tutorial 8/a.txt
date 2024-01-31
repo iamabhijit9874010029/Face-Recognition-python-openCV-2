@@ -1,0 +1,2 @@
+pip install --upgrade <package name>
+pip cache purge
